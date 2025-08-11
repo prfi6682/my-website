@@ -1,4 +1,2 @@
-# my-website
-Personal website
-
-Project #1: Automating fantasy MLB managment
+# Project #1 - Personal Website Creation
+Set up personal website using GitHub Pages and Jekyll.
